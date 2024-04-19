@@ -1,7 +1,7 @@
 import 'package:bloc/bloc.dart';
-import 'package:last_tumbleblog/local_storage.dart';
-import 'package:last_tumbleblog/post.local.datasource.dart';
-import 'package:last_tumbleblog/post.model.dart';
+import 'package:tmo_tumbleblog/local_storage.dart';
+import 'package:tmo_tumbleblog/post.local.datasource.dart';
+import 'package:tmo_tumbleblog/post.model.dart';
 import 'package:meta/meta.dart';
 
 part 'post_state.dart';

@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:last_tumbleblog/local_storage.dart';
-import 'package:last_tumbleblog/post.model.dart';
+import 'package:tmo_tumbleblog/local_storage.dart';
+import 'package:tmo_tumbleblog/post.model.dart';
 
 abstract class IPostDataSource {
   Future<bool> createPost({

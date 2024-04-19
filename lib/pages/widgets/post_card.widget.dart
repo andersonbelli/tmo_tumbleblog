@@ -3,9 +3,9 @@ import 'dart:developer';
 
 import 'package:fleather/fleather.dart';
 import 'package:flutter/material.dart';
-import 'package:last_tumbleblog/config/editor_embed_builder.dart';
-import 'package:last_tumbleblog/config/launch_url.dart';
-import 'package:last_tumbleblog/pages/editor.page.dart';
+import 'package:tmo_tumbleblog/config/editor_embed_builder.dart';
+import 'package:tmo_tumbleblog/config/launch_url.dart';
+import 'package:tmo_tumbleblog/pages/editor.page.dart';
 
 class PostCard extends StatefulWidget {
   final String content;

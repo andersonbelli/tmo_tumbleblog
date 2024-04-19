@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:last_tumbleblog/logic/post_cubit.dart';
-import 'package:last_tumbleblog/pages/home.page.dart';
+import 'package:tmo_tumbleblog/logic/post_cubit.dart';
+import 'package:tmo_tumbleblog/pages/home.page.dart';
 
 void main() {
   runApp(const BlogApp());

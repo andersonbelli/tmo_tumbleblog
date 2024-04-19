@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:last_tumbleblog/logic/post_cubit.dart';
-import 'package:last_tumbleblog/pages/editor.page.dart';
-import 'package:last_tumbleblog/pages/widgets/post_card.widget.dart';
+import 'package:tmo_tumbleblog/logic/post_cubit.dart';
+import 'package:tmo_tumbleblog/pages/editor.page.dart';
+import 'package:tmo_tumbleblog/pages/widgets/post_card.widget.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

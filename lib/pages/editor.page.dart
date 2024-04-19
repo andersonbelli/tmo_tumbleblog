@@ -6,9 +6,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:last_tumbleblog/config/editor_embed_builder.dart';
-import 'package:last_tumbleblog/config/launch_url.dart';
-import 'package:last_tumbleblog/logic/post_cubit.dart';
+import 'package:tmo_tumbleblog/config/editor_embed_builder.dart';
+import 'package:tmo_tumbleblog/config/launch_url.dart';
+import 'package:tmo_tumbleblog/logic/post_cubit.dart';
 import 'package:parchment_delta/parchment_delta.dart';
 
 class EditorPage extends StatefulWidget {
